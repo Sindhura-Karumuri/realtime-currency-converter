@@ -1,2 +1,38 @@
-# realtime-currency-converter
-A responsive web app to convert currencies using real-time exchange rates via FreeCurrencyAPI, built with HTML, CSS, and JavaScript.
+# 💱 Realtime Currency Converter
+
+A responsive web application that allows users to convert between currencies in real-time using live exchange rates.  
+Built with **HTML**, **CSS**, and **JavaScript**, and powered by the [FreeCurrencyAPI](https://freecurrencyapi.com/).
+
+---
+
+## 🚀 Features
+
+- 🌍 Convert from one currency to another in real-time  
+- 🔁 Swap between base and target currencies  
+- 🔄 Fetch live exchange rates via API  
+- 💡 Handles invalid input and API errors gracefully  
+- 📱 Clean, responsive design for all screen sizes  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- FreeCurrencyAPI  
+
+---
+
+## 📁 Project Structure
+
+<pre> currency-converter/
+  ├── index.html # Main HTML structure
+  ├── styles.css # CSS styling
+  ├── script.js # JavaScript logic
+  └── README.md # Project documentation  </pre>
+---
+
+## 📬 Contact
+
+Created by **Sindhura Karumuri** — feel free to reach out!
