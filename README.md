@@ -15,6 +15,11 @@ Built with **HTML**, **CSS**, and **JavaScript**, and powered by the [FreeCurren
 
 ---
 
+## 📷 Screenshot
+
+![Currency Converter Screenshot](screenshot.png)
+
+
 ## 🛠️ Tech Stack
 
 - HTML5  
