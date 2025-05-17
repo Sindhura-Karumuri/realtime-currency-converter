@@ -40,4 +40,4 @@ Built with **HTML**, **CSS**, and **JavaScript**, and powered by the [FreeCurren
 
 ## 📬 Contact
 
-Created by **Sindhura-Karumuri** — feel free to reach out!
+Created by [Sindhura-Karumuri](https://github.com/Sindhura-Karumuri) — feel free to reach out!
