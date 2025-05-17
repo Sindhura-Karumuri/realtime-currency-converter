@@ -35,7 +35,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, and powered by the [FreeCurren
   ├── index.html # Main HTML structure
   ├── styles.css # CSS styling
   ├── script.js # JavaScript logic
-  └── README.md # Project documentation  </pre>
+  └── screenschot.png # Project screenshot  </pre>
 ---
 
 ## 📬 Contact
